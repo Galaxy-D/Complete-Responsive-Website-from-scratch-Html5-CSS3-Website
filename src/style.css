@@ -75,7 +75,7 @@
     position: relative;
     width: 36px;
     height: 28px;
-    background: url(./images/toggle.png);
+    background: url(../assets/toggle.png);
     background-size: cover;
     cursor: pointer;
 }
@@ -113,7 +113,7 @@
 
 .about .imgBx{
 
-    background: url(./images/window.jpg);
+    background: url(../assets/window.jpg);
     width: 50%;
     background-size: cover;
     background-position: center;
@@ -262,7 +262,7 @@
 
 .imgBx2{
 
-    background: url(./images/bg2.jpg);
+    background: url(../assets/bg2.jpg);
     background-size: cover;
     background-position: center;
     width: 50%;
@@ -270,7 +270,7 @@
 
 .redbg{
 
-    background: url(./images/red.jpg) !important;
+    background: url(../assets/red.jpg) !important;
     background-size: cover;
     background-position: center;
 }
